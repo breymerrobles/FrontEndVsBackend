@@ -43,7 +43,6 @@ backend/node_modules/
 backend/jspm_packages/
 
 # TypeScript v1 declaration files
-frontend/typings/
 backend/typings/
 
 # TypeScript cache
